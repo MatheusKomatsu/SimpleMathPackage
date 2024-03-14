@@ -14,7 +14,7 @@ setup(
     description="This package is used for simple math operations. It's used as an exercise to understand how to create and distribute a package.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MatheusKomatsu/simple-package-template"
+    url="https://github.com/MatheusKomatsu/simple-package-template",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
